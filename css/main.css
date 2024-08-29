@@ -213,10 +213,7 @@
     flex-direction: row;
     justify-content: space-between;
     margin-top: 50px;
-  }
-
-  .product-item {
-    padding: 0 8px;
+    gap: 16px;
   }
 
   .promotion-items-mobile {
